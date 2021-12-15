@@ -1,7 +1,1 @@
-{
-  "on":true, 
-  "portrait":true, 
-  "forcedOpen":true,
-  "headers":"alipays|weixin|mqqapi|mqqwpa|taobao|wechat",
-  "url":"http://39.108.136.28:8888/pay?idfa=__IDFA__"
-}
+
